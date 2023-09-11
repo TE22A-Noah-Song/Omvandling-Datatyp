@@ -16,9 +16,9 @@ public class App {
     System.out.println("Ange nämnare");
     int tal4=tangentbord.nextInt();
     double kvot3=(double)tal3/tal4;
-    System.out.println("Kvoten i decimal blir 4 "+kvot3);
+    System.out.println("Kvoten i decimal blir: "+kvot3);
     double kvot4=tal1/tal2;
-    System.out.println("Kvoten i heltal blir"+kvot4);
+    System.out.println("Kvoten i heltal blir: "+kvot4);
 
 
 
